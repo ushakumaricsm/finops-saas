@@ -3,6 +3,9 @@ AI-Powered FinOps SaaS with ECS, Aurora and Bedrock
 Definition:
 An AI-Powered FinOps SaaS is a Software-as-a-Service application that uses AI/ML models to analyze cloud spending and provide actionable recommendations for cost optimization. By integrating with AWS services like ECS, Aurora Serverless, and Amazon Bedrock, it allows scalable, automated financial operations with minimal manual effort.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4ae3fa74-1779-4ce7-b4b5-1d7378d32e88" />
+
+
 1️⃣ Key AWS Components
 Component	Purpose
 ECS Fargate	Containerized deployment of the SaaS backend. Scales automatically without managing servers.
